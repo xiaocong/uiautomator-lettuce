@@ -1,0 +1,2 @@
+lettuce==0.2.18
+uiautomator==0.1.15
